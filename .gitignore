@@ -1,0 +1,16 @@
+﻿# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+# Jupyter
+.ipynb_checkpoints/
+# IDE
+.vscode/
+.idea/
+# Sistema
+Thumbs.db
+.DS_Store
+# Data temporal
+*.tmp
